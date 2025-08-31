@@ -1,7 +1,7 @@
 
 # Every_day_python 🐍
 
-Welcome to the **Every_day_python** repository!  
+Welcome to the **Every_Day_Python** repository!  
 This project is a daily challenge where I solve one Python algorithm per day, with the goal of reaching a total of **100 algorithms**.
 
 ## 📂 Project Structure
